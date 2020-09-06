@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Tarotcorp, a VMworld Project</title>
+    <link>https://tarotcorp.com/tags/code/</link>
+    <description>Recent content in Code on Tarotcorp, a VMworld Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2020 10:21:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://tarotcorp.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://tarotcorp.com/posts/hello-world/</link>
+      <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
+      
+      <guid>https://tarotcorp.com/posts/hello-world/</guid>
+      <description>Come for the code, comeback for the learnings. Maybe. Read on for some ideas&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

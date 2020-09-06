@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tarotcorp, a VMworld Project</title>
+    <link>https://tarotcorp.com/tags/</link>
+    <description>Recent content in Tags on Tarotcorp, a VMworld Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2020 10:21:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://tarotcorp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>https://tarotcorp.com/tags/code/</link>
+      <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
+      
+      <guid>https://tarotcorp.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jarvis</title>
+      <link>https://tarotcorp.com/tags/jarvis/</link>
+      <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
+      
+      <guid>https://tarotcorp.com/tags/jarvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanzu Observability</title>
+      <link>https://tarotcorp.com/tags/tanzu-observability/</link>
+      <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
+      
+      <guid>https://tarotcorp.com/tags/tanzu-observability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

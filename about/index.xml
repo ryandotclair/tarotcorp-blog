@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Tarotcorp, a VMworld Project</title>
+    <link>https://tarotcorp.com/about/</link>
+    <description>Recent content in Abouts on Tarotcorp, a VMworld Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2020 10:21:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://tarotcorp.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://tarotcorp.com/about/about/</link>
+      <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
+      
+      <guid>https://tarotcorp.com/about/about/</guid>
+      <description>apiVersion: about/v1 Kind: Person metadata: name: &amp;#34;Ryan Clair&amp;#34; labels: pronouns: &amp;#34;he/him&amp;#34; location: &amp;#34;Texas, USA&amp;#34; company: &amp;#34;VMware&amp;#34; titles: [ &amp;#34;Buzzword Technology Tinker&amp;#34;, &amp;#34;Staff Solution Engineer&amp;#34;, &amp;#34;Husband&amp;#34;, &amp;#34;Father&amp;#34;, &amp;#34;The dude that coughed a lot in his session (not COVID related)&amp;#34; ] interests: [ &amp;#34;Infosec&amp;#34;, &amp;#34;Modern Applications&amp;#34;, &amp;#34;Learning new things&amp;#34;, &amp;#34;Writing&amp;#34;, &amp;#34;Breaking said new things&amp;#34; ] twitter_handler: &amp;#34;@ryandotclair&amp;#34; github: &amp;#34;https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
