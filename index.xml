@@ -17,7 +17,7 @@
       <pubDate>Sat, 05 Sep 2020 10:21:17 -0500</pubDate>
       
       <guid>https://tarotcorp.com/about/about/</guid>
-      <description>apiVersion: about/v1 Kind: Person metadata: name: &amp;#34;Ryan Clair&amp;#34; labels: pronouns: &amp;#34;he/him&amp;#34; location: &amp;#34;Texas, USA&amp;#34; company: &amp;#34;VMware&amp;#34; titles: [ &amp;#34;Buzzword Technology Tinker&amp;#34;, &amp;#34;Staff Solution Engineer&amp;#34;, &amp;#34;Husband&amp;#34;, &amp;#34;Father&amp;#34;, &amp;#34;The dude that coughed a lot in his session (not COVID related)&amp;#34; ] interests: [ &amp;#34;Infosec&amp;#34;, &amp;#34;Modern Applications&amp;#34;, &amp;#34;Learning new things&amp;#34;, &amp;#34;Writing&amp;#34;, &amp;#34;Breaking said new things&amp;#34; ] twitter_handler: &amp;#34;@ryandotclair&amp;#34; github: &amp;#34;https://github.</description>
+      <description>apiVersion: about/v1 Kind: Person metadata: name: &amp;#34;Ryan Clair&amp;#34; labels: pronouns: &amp;#34;he/him&amp;#34; location: &amp;#34;Texas, USA&amp;#34; company: &amp;#34;VMware&amp;#34; titles: [ &amp;#34;Buzzword Technology Tinker&amp;#34;, &amp;#34;Staff Solution Engineer&amp;#34;, &amp;#34;Husband&amp;#34;, &amp;#34;Father&amp;#34;, &amp;#34;The dude that hates bad UX designs&amp;#34; ] interests: [ &amp;#34;Infosec&amp;#34;, &amp;#34;Modern Applications&amp;#34;, &amp;#34;Learning new things&amp;#34;, &amp;#34;Writing&amp;#34;, &amp;#34;Breaking said new things&amp;#34; ] twitter_handler: &amp;#34;@ryandotclair&amp;#34; github: &amp;#34;https://github.</description>
     </item>
     
     <item>
